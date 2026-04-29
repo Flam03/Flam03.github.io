@@ -19,10 +19,10 @@ author:
   name             : "Yang Bingzhou (杨秉宙)"
   pronouns         : "he/him"
   # 丰富后的个人简介：突出求实精神与多模态AI研究背景
-  bio              : "Graduate Student at Qiushi Academy, Dalian University of Technology. Focusing on Multimodal Large Language Models (Cobra) and robust system analysis for geopolitical discourse."
+  bio              : "Dalian University of Technology. Focusing on Multimodal Large Language Models (Cobra) and robust system analysis for geopolitical discourse."
   location         : "Dalian, China"
   employer         : "Dalian University of Technology (DUT)"
-  email            : "ybz19596612@mail.dlut.edu.cn"
+  email            : "mailto:ybz19596612@mail.dlut.edu.cn"
 
   # 学术社交链接 (仅保留有实际意义的项目)
   # googlescholar  : "" # 有链接后填入
